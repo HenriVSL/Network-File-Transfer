@@ -1,0 +1,16 @@
+
+# Added for GitHub publishing
+.DS_Store
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+build/
+DerivedData/
+*.ipa
+*.dSYM
+*.dSYM.zip
+*.xcarchive
+.build/
+.swiftpm/
+.claude/
